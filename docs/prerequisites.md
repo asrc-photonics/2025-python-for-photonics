@@ -1,0 +1,1 @@
+– Bring a laptop with Python 3.9+ and admin rights.

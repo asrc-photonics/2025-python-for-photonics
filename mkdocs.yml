@@ -1,0 +1,98 @@
+site_name: 2025 Python for Photonics
+site_description: Documentation for 2025 IEEE Workshop Photonics Automation with Python
+site_url: https://asrc-photonics.github.io/2025-python-for-photonics
+repo_name: 2025-python-for-photonics
+
+# Standard docs directory
+docs_dir: docs
+
+theme:
+  name: material
+  font: 
+    text: Roboto
+    code: Roboto Mono
+  # icon:
+  #   logo: octicons/globe/16
+  palette:
+    # Light mode
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: indigo
+      accent: indigo
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+    
+    # Dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: black
+      accent: indigo
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+  features:
+    # - navigation.footer
+    - navigation.tabs
+    - navigation.sections
+    - navigation.expand
+    - navigation.instant
+    # - toc.integrate
+    - search.suggest
+    - search.highlight
+
+markdown_extensions:
+  - pymdownx.highlight
+  - pymdownx.superfences:
+      custom_fences:
+        - name: mermaid
+          class: mermaid
+          format: !!python/name:pymdownx.superfences.fence_code_format
+  - pymdownx.snippets:
+      base_path: docs
+  - pymdownx.tabbed:
+      alternate_style: true
+  - pymdownx.tasklist
+  - pymdownx.details
+  - admonition
+  - toc:
+      permalink: true
+      # baselevel: 2
+      # separator: "_"
+  - attr_list
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+  - md_in_html
+  - footnotes
+
+
+
+plugins:
+  - search
+  - mkdocstrings:
+      handlers:
+        python:
+          paths: [.]
+          options:
+            docstring_style: google
+            show_source: true
+            show_root_heading: true
+
+nav:
+  - Home: index.md
+  - Program: program.md
+  - Prerequisites: prerequisites.md
+  - Registration: registration.md
+  - Venue: venue.md
+  - Contact: contact.md
+  - Flyer: flyer.md
+ 
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/asrc-photonics
+    # - icon: fontawesome/brands/linkedin
+    #   link: https://www.linkedin.com/in/worldlycode/
+
+
