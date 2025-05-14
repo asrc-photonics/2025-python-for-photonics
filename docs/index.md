@@ -25,3 +25,7 @@ Process & visualize data – turn raw traces and images into publication‑ready
 Adopt best practices – version‑control experiments, document procedures, and build reusable code modules that scale with your research. 
 
 Target Audience: This program is tailored for undergraduate and graduate students, as well as early-career researchers with a basic knowledge of Python who are looking to apply programming skills to photonics research and experimental automation.
+
+'''
+print("hello")
+'''
