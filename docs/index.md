@@ -2,9 +2,7 @@
 # "Photonics Automation with Python"
 Overview: This four‑day workshop is designed for students and early‑career researchers who want to automate photonics experiments with Python. Participants will learn to control optical components, design end‑to‑end measurement architectures, and convert raw data into clear visualisations. The programm follows the entire automation pipeline—from hardware drivers to data analysis—combining theory with hands‑on implementation.
 
-Beyond skills training, the school functions as an interactive forum where doctoral and post‑doctoral researchers can present emerging results, debate new methods, and exchange pre‑publication ideas. Senior mentors and trained junior moderators keep every discussion lively and inclusive so that attendees become contributors rather than spectators.
-
-Keynote talks, industry showcases, live lab demonstrations, and structured coding sessions round out an intensive, collaborative learning experience.
+Beyond skills training, the school functions as an interactive forum where doctoral and post‑doctoral researchers can present emerging results, debate new methods, and exchange pre‑publication ideas. Keynote talks, industry showcases, live lab demonstrations, and structured coding sessions round out an intensive, collaborative learning experience.
 
 # Program structure:
 
@@ -25,7 +23,3 @@ Process & visualize data – turn raw traces and images into publication‑ready
 Adopt best practices – version‑control experiments, document procedures, and build reusable code modules that scale with your research. 
 
 Target Audience: This program is tailored for undergraduate and graduate students, as well as early-career researchers with a basic knowledge of Python who are looking to apply programming skills to photonics research and experimental automation.
-
-'''
-print("hello")
-'''

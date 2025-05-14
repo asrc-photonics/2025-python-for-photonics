@@ -81,11 +81,15 @@ plugins:
 
 nav:
   - Home: index.md
-  - Program: program.md
+  - Program: 
+    - Day 1 Symposium: program_day1.md
+    - Days 2-3 Hands-on Workshop: program_days2-4.md
+    - Meet the Team: instructors.md
   - Prerequisites: prerequisites.md
   - Registration: registration.md
   - Venue: venue.md
   - Contact: contact.md
+  - Support the Workshop: support.md
   - Flyer: flyer.md
  
 extra:
