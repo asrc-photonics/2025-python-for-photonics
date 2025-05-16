@@ -23,6 +23,6 @@ Python is rapidly becoming the control language of modern optics labs. In this f
 
 ---
 
-**Target Participants for the symposium:** The symposium welcomes students, early-career researchers, and established scientists, as well as others with a professional interest in experimental automation. Attendees may choose to participate as observers, contribute an oral presentation or poster, or engage in both activities.
+**Target Participants for the symposium:** The symposium welcomes students, early-career researchers, and established scientists, as well as others with a professional interest in experiment automation. Attendees may choose to participate as observers, contribute an oral presentation or poster, or engage in both activities.
 
-**Target Participants for the hands-on sessions:** This program is tailored for undergraduate and graduate students, as well as early-career researchers with a basic knowledge of Python who are looking to apply programming skills to photonics research and experimental automation.
+**Target Participants for the hands-on sessions:** This program is tailored for undergraduate and graduate students, as well as early-career researchers with a basic knowledge of Python who are looking to apply programming skills to photonics research and experiment automation.
