@@ -17,7 +17,7 @@ INSTRUCTOR: DR. ROMAIN TIROLE
 ---
 
 ## Wednesday, 9 July 2025 
-**9:00am – 10:00am** Morning Session 2: Setting up your GitHub repository   
+**9:00am – 10:00am** Morning Session 2: Setting up your GitHub repository; Reviewing libraries and classes   
 INSTRUCTOR: AYISHA YANKEY
 
 **10:00am – 12:30pm** Independent study and working on the projects.
