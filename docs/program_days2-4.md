@@ -7,20 +7,20 @@ INSTRUCTOR: DR. MARIO MARQUES
 
 > The morning begins with a concise introduction to object-oriented Python—showing how to package commands and data into clean, reusable “objects.” Participants practice by turning a short procedural script into a self-contained class, creating a generic template for hardware control and adapting it to different devices, then wrapping settings and results into an experiment object that can scan a variable, plot the outcome, and save everything to a file. By lunchtime everyone will have run a simple automated measurement and stored the data.
 
-**12:30pm – 2:00pm** Lunch, tours
+**12:30pm – 2:00pm** Lunch, tours, project distribution
 
-**2:00pm – 5:00pm** Afternoon session 1: Graphical user interface and coding architecture  
-INSTRUCTOR: DR. ROMAIN TIROLE
+**2:00pm – 3:00pm** Afternoon session 1: Setting up your GitHub repository; Reviewing libraries and classes   
+INSTRUCTOR: AYISHA YANKEY
 
-> Building on the morning’s classes, the afternoon shifts to user interfaces. After a quick tour of PyQt Designer, attendees create a widget for their motorized stage, then wire it to the underlying Stage class using Model-View-Controller principles. Next, they add real-time plotting by connecting signals and slots to a power-meter class, yielding a live-acquisition dashboard.
+**3:00pm – 5:00pm** Independent study and working on the projects.
 
 ---
 
 ## Wednesday, 9 July 2025 
-**9:00am – 10:00am** Morning Session 2: Setting up your GitHub repository; Reviewing libraries and classes   
-INSTRUCTOR: AYISHA YANKEY
+**9:00am – 12:30am** Morning Session 2: Graphical user interface and coding architecture  
+INSTRUCTOR: DR. ROMAIN TIROLE
 
-**10:00am – 12:30pm** Independent study and working on the projects.
+> Building on the morning’s classes, the afternoon shifts to user interfaces. After a quick tour of PyQt Designer, attendees create a widget for their motorized stage, then wire it to the underlying Stage class using Model-View-Controller principles. Next, they add real-time plotting by connecting signals and slots to a power-meter class, yielding a live-acquisition dashboard.
 
 **12:30pm – 1:30pm** Lunch
 
