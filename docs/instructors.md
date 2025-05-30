@@ -4,7 +4,15 @@
 
 ## Ayisha Yankey
 
+<img align="right" width="200" src=../pictures/Ayisha.jpg alt="image" />
+Hi, my name is Ayisha Yankey. I am currently a high school senior and an incoming Electrical and Computer Engineering major at Carnegie Mellon University. Since last summer, I’ve been working at the ASRC in the photonics lab, where I focus on automating experimental setups. I’m excited to contribute to this workshop and happy to assist in any way I can.
+
+---
+
 ## Dr. Romain Tirole
+
+Romain Tirole’s research focuses on the investigation of various materials and nanostructures as platforms for nonlinear optical time-varying media. Time-varying photonics recently surged as a steaming field of research thanks to its promises for control of waves, yet their implementation in optics remains challenging. Using nonlinear optical techniques such as pump-probe spectroscopy, harmonic generation microscopy or Z-scan, Romain explores how the dynamics of charges carriers can help create such devices. With years of hands-on experience synchronizing instruments in tedious measurements, he’s looking forward to sharing his struggles and learned lessons with you!
+Romain Tirole joined the ASRC and Prof. Andrea Alù’s team as a Research Fellow in 2023 after receiving his PhD in Physics from Imperial College London working in Prof. Riccardo Sapienza’s group. Previously, Romain completed his undergraduate degrees studying at the University of Cambridge, Imperial College London and the Classe Préparatoire aux Grandes Écoles Pierre de Fermat in Toulouse.
 
 ---
 
