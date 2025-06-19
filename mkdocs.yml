@@ -37,6 +37,7 @@ theme:
     - navigation.sections
     - navigation.expand
     - navigation.instant
+    - navigation.indexes
     # - toc.integrate
     - search.suggest
     - search.highlight
@@ -91,6 +92,8 @@ nav:
   - Contact: contact.md
   - Support the Workshop: support.md
   - Flyer: flyer.md
+  - Installation guideline:
+    - python/guideline.md
  
 extra:
   social:
