@@ -88,12 +88,13 @@ nav:
     - Meet the Team: instructors.md
   - Registration: registration.md
   - Venue: venue.md
-  - Prerequisites: prerequisites.md
+  - Days 2-4 Info: 
+    - Prerequisites: prerequisites.md
+    - Installation Guideline: python/guideline.md
   - Contact: contact.md
   - Support the Workshop: support.md
   - Flyer: flyer.md
-  - Installation guideline:
-    - python/guideline.md
+
  
 extra:
   social:
