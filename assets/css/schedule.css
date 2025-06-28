@@ -1,0 +1,86 @@
+html[data-md-color-scheme="default"] {
+  --bg-header: #336699;
+  --text-header: #ffffff;
+
+  --bg-keynote: #FFF1D1;
+  --bg-invited: #E3ECF5;
+  --bg-break: #F5EAD0;
+
+  --bg-odd: #FAFAFA;
+  --bg-even: #F0F4F8;
+
+  --border-color: #d4dce3;
+  --text-dark: #222222;
+}
+
+html[data-md-color-scheme="slate"] {
+  --bg-header: #336699;
+  --text-header: #ffffff;
+
+  --bg-keynote: #3A2E1F;
+  --bg-invited: #1E2B3A;
+  --bg-break: #3C3C3C;
+
+  --bg-odd: #1A1A1A;
+  --bg-even: #222222;
+
+  --border-color: #444;
+  --text-dark: #f0f0f0;
+}
+
+
+/* =======================
+   Schedule Table Styling
+   ======================= */
+
+.schedule-table {
+  width: 100%;
+  border-collapse: collapse;
+  font-family: 'Roboto', sans-serif;
+  font-size: 15px;
+  color: var(--text-dark);
+  margin-top: 1.5em;
+  table-layout: fixed;
+  border: 1px solid var(--border-color);
+}
+
+.schedule-table thead {
+  background-color: var(--bg-header);
+  color: var(--text-header);
+}
+
+.schedule-table th,
+.schedule-table td {
+  padding: 12px 16px;
+  border: 1px solid var(--border-color);
+  vertical-align: top;
+  line-height: 1.5;
+}
+
+.schedule-table tbody tr:not(.keynote-row):not(.invited-row):nth-child(odd) {
+  background-color: var(--bg-odd);
+}
+
+.schedule-table tbody tr:not(.keynote-row):not(.invited-row):nth-child(even) {
+  background-color: var(--bg-even);
+}
+
+.schedule-table tr.keynote-row {
+  background-color: var(--bg-keynote);
+}
+
+.schedule-table tr.invited-row {
+  background-color: var(--bg-invited);
+}
+
+.schedule-table td.break {
+  background-color: var(--bg-break);
+  font-style: italic;
+  text-align: center;
+  font-weight: 500;
+  color: var(--text-dark);
+}
+
+.schedule-table {
+  border: 1px solid rgb(0, 140, 255) !important;
+}
