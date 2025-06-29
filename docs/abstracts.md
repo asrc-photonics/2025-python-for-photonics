@@ -47,7 +47,7 @@ Outside of her formal academic role, Dr. Roberts independently develops applicat
 
 ## Invited speakers
 
-## Matthew C. Strasbourg: Practical Python in the lab: high-throughput optical spectroscopy of quantum materials
+## Dr. Matthew C. Strasbourg: Practical Python in the lab: high-throughput optical spectroscopy of quantum materials
 
 Specialized spectroscopies often necessitate custom hardware solutions, creative implementations of instrumentation, real-time data visualization, and traceable analysis of big datasets. While some software packages and programming languages excel at individual aspects of these tasks, Python is uniquely positioned to excel in these applications due to its ubiquity in scientific computing, while also avoiding the overhead associated with other solutions. This talk will cover how automated instrumentation is integrated into optical assemblies and how advanced open-source visualization toolkits and transparent analysis pipelines are utilized to interpret resulting datasets. Additionally, the talk will overview a microscope control platform and data analysis pipeline with specific examples of the complete lifecycle of a custom spectroscopic measurement, including hardware integration, measurement orchestration, data processing, and publication-ready figure rendering. It will highlight instances where automation has directly led to new scientific insights and how this Python-enabled framework supports high-throughput and specialized spectroscopy of quantum materials.
 
@@ -55,7 +55,7 @@ Bio: Matt is a Postdoctoral Research Scientist at Columbia University who is dev
 
 ---
 
-## Deepankur Thureja: Disentangling weakly coupled modes via global fitting of optical spectra 
+## Dr. Deepankur Thureja: Disentangling weakly coupled modes via global fitting of optical spectra 
 
 Coupled oscillators are a ubiquitous theme in photonics. They provide a unifying language for phenomena involving hybridized modes in diverse platforms, ranging from ultracold atomic gases to semiconductors in optical microcavities. For spectroscopists, this often translates into the routine task of fitting complex spectral features to extract quantitative information from their optical measurements, such as resonance positions, linewidths, and interaction strengths.
 
@@ -77,7 +77,7 @@ She will use these concepts to demonstrate how individual triplet excitons can b
 
 ---
 
-## Michael de Oliveira: Shaping Light on Demand (with a Few Lines of Code)
+## Dr. Michael de Oliveira: Shaping Light on Demand (with a Few Lines of Code)
 
 Imagine sculpting light—twisting, shaping, and imprinting it with structure—as effortlessly as editing an image on a screen. In today’s photonics labs, this is no longer a fantasy. Spatial light modulators (SLMs) have become versatile, programmable tools that enable real-time control over light’s spatial and temporal properties, driving advances in areas like microscopy, optical tweezing, quantum optics, and beyond. This talk offers an accessible introduction to the principles and practice of shaping light with SLMs. We’ll unpack how these devices work, how phase-only modulation can be used to encode both phase and complex amplitude, and and how to generate a wide range of structured beams—from optical vortices and exotic modes to dynamic space-time beams. We’ll walk through intuitive examples, practical strategies, and common challenges, making this tutorial especially valuable for those new to SLMs or curious about integrating them into automated experimental setups. Whether you’re steering beams, engineering light fields for nonlinear optics, or encoding information for quantum communication, this session will provide a clear and engaging foundation for shaping light in the lab.
 
@@ -87,7 +87,7 @@ Michael joined the ASRC and Prof. Andrea Alù’s group in 2025 as a Postdoctora
 
 ---
 
-## Pratap Chandra Adak: Magnon-mediated exciton-exciton interactions in a van der Waals antiferromagnet
+## Dr. Pratap Chandra Adak: Magnon-mediated exciton-exciton interactions in a van der Waals antiferromagnet
 
 CrSBr is a newly discovered material that uniquely combines magnetism with semiconducting properties at the atomic scale. It hosts excitons—bound pairs of electrons and holes—that strongly influence its optical behavior. What makes CrSBr truly remarkable is that these excitons interact with the material’s magnetic state, leading to a new type of coupling between excitons and magnons—the quantum ripples of magnetism. In our recent experiments, we have uncovered how this exciton-magnon interaction enables an indirect interaction between excitons themselves, resulting in strong nonlinear optical effects. This interaction is unusual because excitons and magnons typically do not interact with each other, but in CrSBr, the magnetic environment subtly changes as excitons accumulate, shifting their energy. Our findings deepen our understanding of emergent quasiparticle interactions in quantum materials and point toward promising applications, such as devices that can link microwave and optical signals—useful for next-generation quantum communication.
 
