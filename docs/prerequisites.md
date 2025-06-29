@@ -3,7 +3,7 @@
 *Day 1 symposium attendees do not need to meet these technical requirements.*
 
 - Laptop with admin rights and a working install of Python 3.12 (or any current 3.x release).
-A detailed setup guide will be posted here in advance.
+A detailed setup guideline is posted under "Installation Guideline" tab.
 
 - Participants are encouraged to attend a test-run meeting on Monday (time TBA) to ensure the smooth operation of the code during the hands-on sessions. Several back-up computers will be available throughout the workshop in case of troubles with personal laptops.
 

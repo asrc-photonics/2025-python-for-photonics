@@ -87,8 +87,9 @@ nav:
   - Home: index.md
   - Program: 
     - Day 1 Symposium: program_day1.md
+    - Day 1 Abstracts: abstracts.md
     - Days 2-4 Hands-on Sessions: program_days2-4.md
-    - Meet the Team: instructors.md
+    - Days 2-4 Meet the Team: instructors.md
   - Registration: registration.md
   - Venue: venue.md
   - Days 2-4 Info: 
