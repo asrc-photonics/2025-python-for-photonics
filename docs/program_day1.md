@@ -1,4 +1,4 @@
-[Download preliminary program (PDF)](assets/schedule/Preliminary_Program.pdf)
+[Download preliminary program (PDF)](assets/schedule/Preliminary_Program___.pdf)
 
 <p><strong>Date:</strong> July 7, 2025<br>
 <strong>Location:</strong> CUNY ASRC Auditorium</p>
