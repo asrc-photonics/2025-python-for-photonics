@@ -31,6 +31,15 @@ Bio: Euclides Almeida is an Assistant Professor of Physics at Queens College of 
 
 ## Prof. Eileen Otte
 
+When light interacts with a medium, its spatial structure – including amplitude, phase, polarization, angular momenta, and more – is shaped by the medium’s properties across scales, from the macro to the nanoscale. For example, sunlight scattered in the blue daylight sky exhibits intriguing polarization patterns that encode the sun’s position—imperceptible to humans but used by insects like bees for navigation. At much the smaller, molecular level, the emission pattern of a single fluorescent molecule depends on its dipole orientation, allowing nanoscale features to be decoded from the structured light it emits.
+Inversely, structured light can also be deliberately engineered, making it a powerful tool across a wide range of applications, including optical micro- and nano-manipulation, motion sensing, material machining, and classical as well as quantum communication and encryption. Used in quantum key distribution, structured light increases the dimension, enhancing the information capacity per photon, noise resilience, and transmission distance.
+We will explore how encoding and decoding information in the structure of light opens new avenues for advancing cutting-edge applications and emerging technologies. 
+
+Bio 
+Dr. Eileen Otte joined the Institute of Optics at the University of Rochester as a new faculty member in January 2025. Before, she was a postdoctoral fellow at the Geballe Laboratory for Advanced Materials (GLAM), Stanford University, advised by Prof. Mark Brongersma. Eileen’s research concentrates on the fundamental properties and diverse applications of structured light fields, in areas such as singular optics, nanoscale imaging and sensing, quantum cryptography, optical manipulation, and more. In her postdoctoral research, Eileen focused on nanoscale light-matter interactions, combining structured light and nanophotonics.
+Eileen performed her PhD work at the University of Muenster, Germany, and University of the Witwatersrand, South Africa; it was honored with summa cum laude as well as the WWU Dissertation Award, and published as a book in the Springer Theses series. She has also received the Research Award 2020 of the Industrial Club Duesseldorf, was appointed a junior class member of the NRW Academy of Sciences, Humanities, and the Arts, and was listed among the Emerging Leaders 2021 and Emerging Talents 2021 of IOP’s Journal of Optics. Her postdoctoral research was supported by the PRIME fellowship of the German Academic Exchange Service as well as Stanford’s GLAM Postdoctoral Fellowship.
+
+
 ---
 
 ## Prof. Samantha Roberts: Generative AI for Research
@@ -95,3 +104,11 @@ Bio: Dr. Pratap Chandra Adak is a postdoctoral researcher at the City College of
 Before this, he earned his Ph.D. from the Tata Institute of Fundamental Research (TIFR) in Mumbai, where he investigated quantum transport in 2D systems such as graphene. His doctoral work revealed a form of the Hall effect that arises not from external magnetic fields, but from the topological structure of flat bands in twisted double bilayer graphene.
 He is also deeply interested in leveraging Python-based automation for high-throughput experiments and data-driven insights into experimental results.
 
+## Industry and Contributed speakers
+
+## Sofia Sechi: Automation of a mid-infrared pump-probe spectroscopy setup
+
+Ultrafast pump-probe spectroscopy enables the study of nonequilibrium dynamics in materials on femtosecond timescales. In our setup, mid-infrared pump and probe pulses excite and track phonon resonances in low-symmetry systems. The probe beam is imaged with a mid-IR camera, providing access to both real and momentum (k-) space and allowing investigation of anisotropic dynamics and dispersion phenomena. A motorized delay stage controls the time delay between pulses, while a collinear interferometer analyzes the probe’s spectral components. 
+LabVIEW software coordinates the entire experiment, synchronizing the camera, translation stage, and interferometer for streamlined data acquisition. This integrated approach enables us to capture both temporal and spectral information, making it possible to visualize ultrafast, direction-dependent processes in complex materials and providing a powerful tool for condensed matter research.
+
+Bio: Sofia Sechi earned her Bachelor’s degree in Physics from the University of Cagliari (Sardinia, Italy) in 2024 and is currently pursuing a Master’s degree in Photonics and Nanomaterials at the same institution. She is carrying out her thesis research at the ASRC within Professor Andrea Alù’s group, working together with postdoctoral researcher Michele Guizzardi. Her work focuses on advanced pump-probe experiments in the mid-infrared range, investigating ultrafast dynamics of phonons in low-symmetry metamaterials.

@@ -2,6 +2,11 @@
 
 ## Dr. Mario Marques
 
+<img align="right" width="200" src=../pictures/Mario.jpg alt="image" />
+Mario Marques is interested in developing density functional theory methods and understanding different light and matter interactions.
+
+Previously, Mario Marques investigated how vibrations influence optical properties of photosynthetic bacteria in the group of Prof. Linn Leppert at the University of Bayreuth. He earned his PhD from Martin Luther University of Halle-Wittenberg, where he studied the structure and dynamics of materials using machine learning under the guidance of Prof. Miguel Marques. He completed his undergraduate studies at the University of Coimbra, where he studied optical and magnetical properties of endohedral silicon cages in the group of Prof. Fernando Nogueira.
+
 ## Ayisha Yankey
 
 <img align="right" width="200" src=../pictures/Ayisha.jpg alt="image" />
@@ -11,6 +16,7 @@ Hi, my name is Ayisha Yankey. I am currently a high school senior and an incomin
 
 ## Dr. Romain Tirole
 
+<img align="right" width="200" src=../pictures/Romain.jpg alt="image" />
 Romain Tirole’s research focuses on the investigation of various materials and nanostructures as platforms for nonlinear optical time-varying media. Time-varying photonics recently surged as a steaming field of research thanks to its promises for control of waves, yet their implementation in optics remains challenging. Using nonlinear optical techniques such as pump-probe spectroscopy, harmonic generation microscopy or Z-scan, Romain explores how the dynamics of charges carriers can help create such devices. With years of hands-on experience synchronizing instruments in tedious measurements, he’s looking forward to sharing his struggles and learned lessons with you!
 Romain Tirole joined the ASRC and Prof. Andrea Alù’s team as a Research Fellow in 2023 after receiving his PhD in Physics from Imperial College London working in Prof. Riccardo Sapienza’s group. Previously, Romain completed his undergraduate degrees studying at the University of Cambridge, Imperial College London and the Classe Préparatoire aux Grandes Écoles Pierre de Fermat in Toulouse.
 
