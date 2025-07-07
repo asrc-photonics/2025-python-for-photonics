@@ -1,4 +1,6 @@
-[Download preliminary program (PDF)](assets/schedule/2025_Workshop_Program.pdf)
+[Download Agenda (PDF)](assets/schedule/2025_Workshop_Program.pdf)
+
+[Download full program (PDF)](assets/schedule/2025_Workshop_Full_Program.pdf)
 
 <p><strong>Date:</strong> July 7, 2025<br>
 <strong>Location:</strong> CUNY ASRC Auditorium</p>
@@ -71,19 +73,14 @@
     </tr>
     <tr><td colspan="3" class="break">Coffee Break — 15:10–15:30</td></tr>
     <tr>
-      <td>15:30–15:45<br><em>Industry Session</em></td>
-      <td>James Scholz<br><small>Vyir Tech</small></td>
-      <td>–</td>
-    </tr>
-    <tr>
-      <td>15:45–16:00<br><em>Contributed 1</em></td>
-      <td>Joseph Demarest<br><small>Vyir Tech</small></td>
-      <td>–</td>
-    </tr>
-    <tr>
-      <td>16:00–16:15<br><em>Contributed 2</em></td>
+      <td>15:30–15:45<br><em>Contributed talk</em></td>
       <td>Sofia Sechi<br><small>University of Cagliari</small></td>
       <td>Automation of a mid-infrared pump-probe spectroscopy setup</td>
+    </tr>
+    <tr>
+      <td>15:45–16:15<br><em>Industry Session</em></td>
+      <td>James Scholz, Joseph Demarest<br><small>Vyir Tech</small></td>
+      <td>Automating optical setups for efficiency and accuracy</td>
     </tr>
     <tr>
       <td>16:15–16:20</td>

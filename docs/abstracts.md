@@ -1,4 +1,4 @@
-[Download preliminary abstracts (PDF)](assets/schedule/Preliminary_Abstracts.pdf)
+[Download abstracts (PDF)](assets/schedule/Final_Abstracts.pdf)
 
 ## Keynote speakers
 
@@ -104,7 +104,7 @@ Bio: Dr. Pratap Chandra Adak is a postdoctoral researcher at the City College of
 Before this, he earned his Ph.D. from the Tata Institute of Fundamental Research (TIFR) in Mumbai, where he investigated quantum transport in 2D systems such as graphene. His doctoral work revealed a form of the Hall effect that arises not from external magnetic fields, but from the topological structure of flat bands in twisted double bilayer graphene.
 He is also deeply interested in leveraging Python-based automation for high-throughput experiments and data-driven insights into experimental results.
 
-## Industry and Contributed speakers
+## Contributed speakers
 
 ## Sofia Sechi: Automation of a mid-infrared pump-probe spectroscopy setup
 
