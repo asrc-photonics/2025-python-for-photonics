@@ -1,0 +1,1 @@
+[Download project descriptions (PDF)](assets/schedule/Hands-on_Sessions_Team_Projects.pdf)

@@ -111,6 +111,7 @@ nav:
     - How to save and plot data: python/save_plot_data.md
     - Powermeter: python/powermeter.md
     - Knife-edge experiment: python/knife_edge.md
+    - Team projects: projects.md
   - Contact: contact.md
   - Support the Workshop: support.md
   - Flyer: flyer.md
