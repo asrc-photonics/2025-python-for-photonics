@@ -31,6 +31,7 @@ theme:
       toggle:
         icon: material/brightness-4
         name: Switch to light mode
+
   features:
     # - navigation.footer
     - navigation.tabs
@@ -39,8 +40,10 @@ theme:
     - navigation.instant
     - navigation.indexes
     # - toc.integrate
+    - toc.follow
     - search.suggest
     - search.highlight
+    - content.code.copy
 
 extra_css:
   - assets/css/schedule.css
@@ -56,6 +59,11 @@ markdown_extensions:
       base_path: docs
   - pymdownx.tabbed:
       alternate_style: true
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
+  - pymdownx.superfences
+  - pymdownx.tabbed
+  - pymdownx.tasklist
   - pymdownx.tasklist
   - pymdownx.details
   - admonition
@@ -69,6 +77,7 @@ markdown_extensions:
       emoji_generator: !!python/name:material.extensions.emoji.to_svg
   - md_in_html
   - footnotes
+  - pymdownx.blocks.caption
 
 
 
@@ -95,6 +104,13 @@ nav:
   - Days 2-4 Info: 
     - Prerequisites: prerequisites.md
     - Installation Guideline: python/guideline.md
+    - Introduction to python: python/intro.md
+    - Overview of classes: python/classes.md
+    - Overview of devices: python/devices.md
+    - Linear Stage: python/linear_stage.md
+    - How to save and plot data: python/save_plot_data.md
+    - Powermeter: python/powermeter.md
+    - Knife-edge experiment: python/knife_edge.md
   - Contact: contact.md
   - Support the Workshop: support.md
   - Flyer: flyer.md
