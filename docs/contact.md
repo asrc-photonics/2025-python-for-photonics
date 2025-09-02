@@ -12,7 +12,8 @@ Dr. Diana Strickland – Program Chair -
 Dr. Prachi Thureja – Operations Chair -
 [pthureja@gc.cuny.edu](mailto:pthureja@gc.cuny.edu)
 
-
+Dr. Romain Tirole – Technical Sessions Chair -
+[rtirole1@gc.cuny.edu](mailto:rtirole1@gc.cuny.edu)
 
 <!-- Confirmed Keynote speakers
 
