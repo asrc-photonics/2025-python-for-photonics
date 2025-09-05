@@ -88,7 +88,7 @@ This will list you all possible ports. You can limit the search to look for devi
 import serial as s
 import serial.tools.list_ports as listports
 
-def find_linear_stage(self):
+def find_linear_stage():
     """ Lists serial port names """
 
     ports = []
