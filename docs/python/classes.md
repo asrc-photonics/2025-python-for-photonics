@@ -587,7 +587,7 @@ class SerraDaEstrela:
 Your task is to make a mix breed **Dog** class. As a breeder, you now want to specialized in creating dogs that are a mix of **Samoyeds** and **Serra da estrela**.
 
 
-Give both **Samoyed** and **SerraDaEstrela** to the **Dog** class. The new **Dog** class should have the **bark** and **looking_cute** methods from **SerraDaEstrela** and the **work** method and **color** attribute from the **Samoyed** class.
+Give both **Samoyed** and **SerraDaEstrela** to the **Dog** class. The new **Dog** class should have the **bark** and **look_cute** methods from **SerraDaEstrela** and the **work** method and **color** attribute from the **Samoyed** class.
 
 Note: Forgot to show you the gandalf1.jpg from the **look_cute** method of the **Samoyed** class. Here it is:
 
